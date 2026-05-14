@@ -9,7 +9,7 @@
 
 ---
 
-I turn raw data into decisions. Currently a **Data Analysis & Research Intern at EcoServants** (Nairobi), where I build automated data pipelines to support environmental research across Kenya. I have a B.S. in Statistics from JKUAT and hands-on experience delivering end-to-end analytics across SQL, Python, and BI tools.
+I turn raw data into decisions. Currently a **Data Analysis & Research Intern at EcoServants** (Nairobi), where I build automated data pipelines to support environmental research across Kenya. I am a self taught data analyst and hands-on experience delivering end-to-end analytics across SQL, Python, and BI tools.
 
 **Open to:** Data Analyst · SQL Analyst · Business Analyst · BI Developer roles — remote or Nairobi-based.
 
