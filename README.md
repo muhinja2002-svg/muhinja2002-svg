@@ -5,12 +5,15 @@
 [![Email](https://img.shields.io/badge/Email-muhinja2002%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhinja2002@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-muhinja2002--svg.github.io-2C6E49?style=flat&logo=googlechrome&logoColor=white)](https://muhinja2002-svg.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rawlings_Muhinja-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawlings-muhinja)
+[![Kaggle](https://img.shields.io/badge/Kaggle-rawlingsmuhinja-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/rawlingsmuhinja)
 
 ---
 
 I independently reconcile institution-reported financial figures against regulator and primary-source data — closing information gaps the public can't otherwise see.
 
-Started with SACCOs: a data-rich, under-scrutinized sector where I could build real rigor before I had institutional access. Working toward banking and fintech, where the same discipline carries more weight. Currently studying Economics and Data Analytics at Mount Kenya University.
+I also built NairobiPulse Intelligence, a real estate credit risk product covering Nairobi's apartment market — that experience is where the discipline behind this work comes from.
+
+Currently studying Economics and Data Analytics at Mount Kenya University.
 
 **Open to:** roles and collaborations in credit risk analytics and financial disclosure review — remote or Nairobi-based.
 
