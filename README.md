@@ -26,6 +26,7 @@ Currently studying Economics and Data Analytics at Mount Kenya University.
 | 🏦 **Co-operative Bank of Kenya — NPL Trajectory Reconciliation** | Independently reconstructs and verifies non-performing loan disclosures against public filings | Primary-source reconciliation, independent recomputation |
 | ⚡ **Kenya Power — Auditor-General Reconciliation** | Reconciles four years of Auditor-General findings against the company's own shareholder narrative | Same method, applied to a public utility |
 | 📊 **SACCO Sector — NPL & Delinquency Comparison** | Cross-checks self-reported figures against SASRA-published data across four Kenyan SACCOs | *In progress* |
+| 🛠️ **PesaCheck Prototype — Automated Reconciliation Engine** | Automates the Kenya Power reconciliation method; independently audited, 95% accuracy against ground truth | [Repo](https://github.com/muhinja2002-svg/pesacheck-kplc-reconciliation) · [Writeup](https://rawlingsmuhinja.substack.com/p/i-built-a-tool-to-automate-my-own) |
 
 Full case studies, sourcing, and methodology: **[muhinja2002-svg.github.io](https://muhinja2002-svg.github.io)**
 
